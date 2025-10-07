@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/@Enara/Scenes/Menu.unity
+    guid: cd2776f6a53f638488fe659fc7f2e920
+  - enabled: 1
+    path: Assets/@Enara/Scenes/Main XR Dark.unity
+    guid: 06560bc647599a3459e7ab6549dec886
+  - enabled: 1
+    path: Assets/@Enara/Scenes/Main XR 50.unity
+    guid: 963e4552ec8335d44a8067f95154ac31
+  - enabled: 1
+    path: Assets/@Enara/Scenes/Main XR 100.unity
+    guid: 4a36bf882ad388441aadae18092a378f
+  - enabled: 1
+    path: Assets/@Enara/Scenes/WinScene.unity
+    guid: 1b4b9888b0fa8a4498f89a4e8f5769f8
+  - enabled: 1
+    path: Assets/@Enara/Scenes/LostScene.unity
+    guid: 83af9ac4f251d6e4a8bdc5061a493fb7
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 1c54e48493d6ca94a9777a7922616426, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ce232f2c5dde9a84bb6cf075e753dc8f, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4074e33781f68d14c826fc1486095508, type: 2}
